@@ -1,4 +1,7 @@
-# tku_mis_github_workshop_assignedment
+# Github Workshop Assignedment
+
+姓名：江鍾權 Edward Chiang  
+系級：講師
 
 ## Git 指令說明
 
